@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Nafiul Alam.
 
-- 🌱 I’m currently learning Java.
-- 🤔 I’m looking for help with Spring Boot.
-- 📫 We can connect over twitter or just give me a knock through my website and I'll get back to you ASAP.
+- 🌱 I’m currently learning Typescript.
+- 🤔 I’m looking for help with NextJS.
+- 📫 We can connect over Twitter or just give me a knock through my website, and I'll get back to you ASAP.
 
 
 
